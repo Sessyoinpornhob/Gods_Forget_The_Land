@@ -161,6 +161,33 @@ TextureImporter:
   - first:
       213: 906364425070880000
     second: Dungeon Ruins Tileset Night_29
+  - first:
+      213: -1797650047131592087
+    second: Dungeon Ruins Tileset Night_31
+  - first:
+      213: 3809622841859491363
+    second: Dungeon Ruins Tileset Night_40
+  - first:
+      213: 1922859395384007650
+    second: Dungeon Ruins Tileset Night_49
+  - first:
+      213: 3575777304189724129
+    second: Dungeon Ruins Tileset Night_51
+  - first:
+      213: 5771183930316505600
+    second: Dungeon Ruins Tileset Night_57
+  - first:
+      213: -1562217951153988885
+    second: Dungeon Ruins Tileset Night_58
+  - first:
+      213: -8642694507405612869
+    second: Dungeon Ruins Tileset Night_59
+  - first:
+      213: 6498446727734371625
+    second: Dungeon Ruins Tileset Night_60
+  - first:
+      213: 9118706245385655196
+    second: Dungeon Ruins Tileset Night_61
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -392,9 +419,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 192
-        width: 48
-        height: 48
+        y: 225
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,9 +461,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 208
+        y: 226
         width: 32
-        height: 32
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,9 +482,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 208
+        y: 234
         width: 32
-        height: 32
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,9 +503,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 240
-        y: 208
-        width: 32
-        height: 32
+        y: 230
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,8 +546,8 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 160
-        width: 61
-        height: 20
+        width: 48
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,7 +567,7 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 128
-        width: 48
+        width: 47
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -560,9 +587,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 128
+        y: 152
         width: 16
-        height: 48
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,10 +628,10 @@ TextureImporter:
       name: Dungeon Ruins Tileset Night_19
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 80
-        height: 48
+        x: 229
+        y: 169
+        width: 43
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -708,7 +735,7 @@ TextureImporter:
         serializedVersion: 2
         x: 168
         y: 80
-        width: 47
+        width: 19
         height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -727,9 +754,9 @@ TextureImporter:
       name: Dungeon Ruins Tileset Night_30
       rect:
         serializedVersion: 2
-        x: 228
+        x: 226
         y: 80
-        width: 27
+        width: 10
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1370,6 +1397,195 @@ TextureImporter:
       bones: []
       spriteID: 005a66974ad049c00800000000000000
       internalID: 906364425070880000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 80
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad1467ec67d07e0800000000000000
+      internalID: -1797650047131592087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326cf395acf7ed430800000000000000
+      internalID: 3809622841859491363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_57
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 169
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00245f3253d571050800000000000000
+      internalID: 5771183930316505600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5ab7ec03e15ae0800000000000000
+      internalID: -1562217951153988885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd2eeae6e5faa10800000000000000
+      internalID: 1922859395384007650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 230
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e12c4386bf9130800000000000000
+      internalID: 3575777304189724129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86edfe22bfe0880800000000000000
+      internalID: -8642694507405612869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 208
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925286e5ede1f2a50800000000000000
+      internalID: 6498446727734371625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset Night_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 221
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93195764072c8e70800000000000000
+      internalID: 9118706245385655196
       vertices: []
       indices: 
       edges: []
