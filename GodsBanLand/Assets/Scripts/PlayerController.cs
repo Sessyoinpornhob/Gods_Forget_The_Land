@@ -64,7 +64,7 @@ public class PlayerController : MonoBehaviour
             rb.transform.localScale = new Vector3(facedir * 8, 8, 0);
         }
 
-        if (playerIsJump == true && Mathf.Abs(rb.velocity.y) <= 0.005)
+        if (Input.GetButton("Jump") && Mathf.Abs(rb.velocity.y) <= 0.005)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpSpeed * Time.deltaTime);
             animator.SetBool("IsJumping", true);
